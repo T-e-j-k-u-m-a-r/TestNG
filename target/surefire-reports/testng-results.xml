@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="june11th.Test_TC01" duration-ms="124" started-at="2020-06-11T21:49:41 IST" finished-at="2020-06-11T21:49:41 IST">
+    <groups>
+      <group name="Regression">
+        <method signature="Test_TC01.testCaseFour()[pri:0, instance:june11th.Test_TC01@23e028a9]" name="testCaseFour" class="june11th.Test_TC01"/>
+        <method signature="Test_TC01.testCaseOne()[pri:0, instance:june11th.Test_TC01@23e028a9]" name="testCaseOne" class="june11th.Test_TC01"/>
+        <method signature="Test_TC01.testCaseTwo()[pri:0, instance:june11th.Test_TC01@23e028a9]" name="testCaseTwo" class="june11th.Test_TC01"/>
+      </group> <!-- Regression -->
+      <group name="Smoke">
+        <method signature="Test_TC01.testCaseThree()[pri:0, instance:june11th.Test_TC01@23e028a9]" name="testCaseThree" class="june11th.Test_TC01"/>
+      </group> <!-- Smoke -->
+    </groups>
+    <test name="Command line test" duration-ms="124" started-at="2020-06-11T21:49:41 IST" finished-at="2020-06-11T21:49:41 IST">
+      <class name="june11th.Test_TC01">
+        <test-method status="PASS" signature="testCaseFour()[pri:0, instance:june11th.Test_TC01@23e028a9]" name="testCaseFour" duration-ms="24" started-at="2020-06-11T21:49:41 IST" finished-at="2020-06-11T21:49:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCaseFour -->
+        <test-method status="PASS" signature="testCaseOne()[pri:0, instance:june11th.Test_TC01@23e028a9]" name="testCaseOne" duration-ms="0" started-at="2020-06-11T21:49:41 IST" finished-at="2020-06-11T21:49:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCaseOne -->
+        <test-method status="PASS" signature="testCaseThree()[pri:0, instance:june11th.Test_TC01@23e028a9]" name="testCaseThree" duration-ms="2" started-at="2020-06-11T21:49:41 IST" finished-at="2020-06-11T21:49:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCaseThree -->
+        <test-method status="PASS" signature="testCaseTwo()[pri:0, instance:june11th.Test_TC01@23e028a9]" name="testCaseTwo" duration-ms="1" started-at="2020-06-11T21:49:41 IST" finished-at="2020-06-11T21:49:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCaseTwo -->
+      </class> <!-- june11th.Test_TC01 -->
+    </test> <!-- Command line test -->
+  </suite> <!-- june11th.Test_TC01 -->
+</testng-results>
